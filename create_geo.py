@@ -49,10 +49,10 @@ lattice_const = 4.282
 n_vertical_double_layers_pyr = 5
 n_vertical_double_layers_cub = 5
 n_xy_cube = 5
-thickness_pyr = 2
-thickness_cub = 1    
+thickness_pyr = 5
+thickness_cub = 5    
 round_corners = True
-dist_frontier_atoms = 10.0
+dist_frontier_atoms = 3.0
 # END PARAMETER CHANGE
 
 
